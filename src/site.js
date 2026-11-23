@@ -12,23 +12,23 @@ export const site = {
   companyShortName: 'Shunn Labs',
   // Replace public/shunnlabs-logo.svg with your logo (SVG or PNG; keep the name, or change it here).
   companyLogo: '/shunnlabs-logo.svg',
-  companyWebsite: '',                 // e.g. 'https://shunnlabs.com'
+  companyWebsite: 'https://shunnlabs.com',                 // e.g. 'https://shunnlabs.com'
 
   // Registered office, one line per entry.
   address: [
-    // 'Line 1',
-    // 'City, State PIN',
-    // 'India',
+    'FTBI, NIT Rourkela',
+    'Rourkela, Odisha 769008',
+    'India',
   ],
 
   // Contact.
   email: 'support@sunlabs.com',
-  whatsapp: '',                       // with country code, digits only, e.g. '919876543210'
+  whatsapp: '918971812384',                       // with country code, digits only, e.g. '919876543210'
 
   // Follow us (full URLs).
   linkedin: '',                       // e.g. 'https://www.linkedin.com/company/…'
-  instagram: '',                      // e.g. 'https://www.instagram.com/…'
-  youtube: '',                        // e.g. 'https://www.youtube.com/@…'
+  instagram: 'https://www.instagram.com/shuun_000?fqnt=MXQ1ZmRnNWJoNjljdg==',                      // e.g. 'https://www.instagram.com/…'
+  youtube: 'https://www.youtube.com/@000shuunlab',                        // e.g. 'https://www.youtube.com/@…'
 
   // A demo video; the "Watch the demo" button appears once this is set.
   demoVideo: '',                      // e.g. 'https://www.youtube.com/watch?v=…'
