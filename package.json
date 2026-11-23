@@ -1,0 +1,21 @@
+{
+  "name": "nandi-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Nandi — an AI for the environment. Product page and waitlist (nandi.shunnlabs.com).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.7.0",
+    "simple-icons": "16.37.0",
+    "vite": "5.4.21"
+  }
+}

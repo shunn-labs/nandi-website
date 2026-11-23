@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="Shunn Labs">
+  <!-- Placeholder: replace this file with the Shunn Labs logo (keep the name, or change companyLogo in src/site.js). -->
+  <rect x="1" y="1" width="46" height="46" rx="12" fill="#0b1622"/>
+  <text x="24" y="31" text-anchor="middle" font-family="Manrope, Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#ffffff">SL</text>
+  <text x="60" y="31" font-family="Manrope, Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#0b1622">Shunn Labs</text>
+</svg>
